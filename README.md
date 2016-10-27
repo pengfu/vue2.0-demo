@@ -1,15 +1,19 @@
 # vue2.0-demo
 
 > A Vue 2.0 demo based on vue-cli
+
 ## 设置node淘宝源（For mainland China）
+
 ``` bash
 npm config set registry 'https://registry.npm.taobao.org/'
 
 ## 全局安装vue-cli
+
 ``` bash
 npm install vue-cli
 
 ## 使用webpack模板脚手架
+
 ``` bash
 vue init webpack my-project
 
